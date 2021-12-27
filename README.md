@@ -56,6 +56,8 @@ The questions to be answered are:
 - Data exploration
 - Link to app on Heroku
 
+![house_rocket](https://github.com/alessandra-barbosa/House-Rocket-Insights/blob/main/HouseRocket1.png)
+
 ### 6. Business Hypotheses 
 |     | hypotheses                                                                     | Result | Business                                                             |
 |-----|--------------------------------------------------------------------------------|--------|----------------------------------------------------------------------|
