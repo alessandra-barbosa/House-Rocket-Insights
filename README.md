@@ -1,4 +1,4 @@
-![house_rocket](https://user-images.githubusercontent.com/70095554/134504743-5c4db802-f270-4c53-b19c-e9a84b6b7885.png)
+![house_rocket](https://github.com/alessandra-barbosa/House-Rocket-Insights/blob/main/portfolio%20(16).jpg)
 
 ## <i>A market share project </i>
 https://house-rocket-ds.herokuapp.com/
